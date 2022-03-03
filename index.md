@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages x
 
-xxx
+xyz
 
 You can use the [editor on GitHub](https://github.com/BillBarnhill/MafundiCollege/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
